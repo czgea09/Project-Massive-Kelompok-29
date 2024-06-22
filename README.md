@@ -64,5 +64,5 @@ Kami menggunakan model otomatis dari IBM Watsonx Assistant.
 - Proyek ini bertujuan untuk menyediakan informasi akurat dan bermanfaat tentang bahan makanan mentah melalui chatbot.
 - Dari berbagai model yang kami kembangkan, model pre-trained Llama 3-70B dianggap unggul karena kemampuannya dalam memahami dan menghasilkan teks yang relevan dan kontekstual.
 - Tantangan dalam proyek ini mencakup kendala teknis selama proses deployment, keterbatasan waktu, dan sumber daya yang terbatas. Namun, semua masalah berhasil diatasi, dan chatbot kini 
-  siap digunakan dengan beberapa perbaikan lebih lanjut.
+siap digunakan dengan beberapa perbaikan lebih lanjut.
 
