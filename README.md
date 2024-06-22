@@ -34,7 +34,7 @@ Tema : Pasokan Bahan Baku Makanan
 Masalah : Pelaku UMKM kesulitan memesan bahan baku makanan dan mencari produk makanan dengan harga yang sesuai
 
 ### 3. Solution
-Solusi : Membuat sebuah chatbot untuk membantu pelaku usaha dalam mencari produk dan harga makanan.
+Solusi : Membuat sebuah chatbot untuk membantu pelaku usaha dalam mencari produk dan harga makanan
 
 ## Dataset and Algorithm
 
