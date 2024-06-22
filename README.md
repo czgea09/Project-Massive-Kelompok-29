@@ -20,8 +20,8 @@ Ini adalah repository untuk contoh struktural yang bisa dipakai untuk melakukan 
 
 ## Teams
 
-- Nabilatul Hapidoh (Design Researcher)
-- Carlos Jonathan Gea (Data Engineer)
+- Nabilatul Hapidoh (Design Researcher) @nabilatulhapidoh
+- Carlos Jonathan Gea (Data Engineer) @czgea09
 - Muhammad Derick Pascal (Machine Learning Engineer)
 - Diast Febrian Senja Anugrah (Machine Learning Ops)
 
