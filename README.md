@@ -61,5 +61,8 @@ Kami menggunakan model otomatis dari IBM Watsonx Assistant.
 ![WhatsApp Image 2024-06-05 at 16 17 42_70a0ddac](https://github.com/czgea09/Project-Massive-Kelompok-29-Digital-Food-Nusantara/assets/117085468/a299d593-dc63-4630-b3af-29b5360e7f0d)
 
 ## Conclusion
-- Chatbot menampilkan produk makanan beserta harga dengan respon yang baik.
-- Chatbot diharapkan dapat dikembangkan untuk kebutuhan konsumen kedepan.
+- Proyek ini bertujuan untuk menyediakan informasi akurat dan bermanfaat tentang bahan makanan mentah melalui chatbot.
+- Dari berbagai model yang kami kembangkan, model pre-trained Llama 3-70B dianggap unggul karena kemampuannya dalam memahami dan menghasilkan teks yang relevan dan kontekstual.
+- Tantangan dalam proyek ini mencakup kendala teknis selama proses deployment, keterbatasan waktu, dan sumber daya yang terbatas. Namun, semua masalah berhasil diatasi, dan chatbot kini 
+  siap digunakan dengan beberapa perbaikan lebih lanjut.
+
